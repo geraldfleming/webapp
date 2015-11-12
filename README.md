@@ -10,4 +10,4 @@ Apache 2.0
 
 ## Copyright
 
-Copyright Docker Inc Education Team 2014 <sales@nebulaworks.com>
+Copyright Docker Inc/Nebulaworks Team 2015 <sales@nebulaworks.com>
